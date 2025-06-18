@@ -1,6 +1,18 @@
 # YoloAssets
 Yolo Assets
 
+##VS Code Environment
+
+python3 -m venv env_name  //Create environment
+
+source env_name/bin/activate   //Activate environment
+
+pip install label-stidio  //Install label studio
+
+label-studio   ///Start label studio
+
+
+
 ##Gmail Link
 
 https://myaccount.google.com/apppasswords
