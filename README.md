@@ -1,6 +1,6 @@
 # YoloAssets
 
-https://drive.google.com/drive/folders/1CTYPN7nWb5wXYwxHpKv9gxwQSBwjbGKM?usp=sharing
+https://drive.google.com/drive/folders/1DGPDSKq21afm4AGmfl4tjjp6qAFzW-I7?usp=sharing
 
 ##VS Code Environment
 
